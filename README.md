@@ -1,5 +1,6 @@
-###  HOLAA! SOY MARCOS CARRIZO 👋
-
+###  HOLAA! SOY MARCOS CARRIZO 👋 Y SOY FRONTENDER 
+      
+PODES CONECTAR CONMIGO :D --->  https://www.linkedin.com/in/marcoscarrizoo/
 <!--
 **marcoscarrizoo/marcoscarrizoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
