@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, mi nombre es Marcos Carrizo</h1> 
 <h2 align='center'>me encanta desarrollar paginas web y podes contactarte conmigo a traves de este link https://www.linkedin.com/in/marcoscarrizoo/</h2>
-<h2 align='center'>Link de mi proyecto reciente https://sport-project.vercel.app/ que se encuenta en constante mejora </h2>
+<h2 align='center'>Link de mi proyecto reciente https://sport-project.vercel.app/ que se encuentra en constante mejora </h2>
 <h3 align="center">RECIENTEMENTE REALIZE UN BOOOTCAMP DE PROGRAMACION SUPER INTENSIVO EN EL CUAL APRENDI DE ESTAS INCREIBLES TECNOLOGIAS</h3>
 
 <p align="center"> 
